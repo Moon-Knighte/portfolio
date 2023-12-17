@@ -22,9 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Nepal, specializing in technical
-          education through hands-on learning and building applications.
-        </p>
+        Nepal-based Software Developer with expertise in technical education through hands-on learning and application development. Specialized in cultivating practical skills and knowledge transfer.        </p>
       </div>
 
       <div className='py-10 flex flex-col'>
@@ -50,8 +48,7 @@ const About = () => {
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
-            teaming up with smart people. Here's the rundown:
+      Enhancing my expertise and partnering with talented individuals. Here's a concise overview:
           </p>
         </div>
 

@@ -173,12 +173,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Moon-Knighte',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/anjan-basnet-b79680237/',
     }
 ];
 
@@ -188,7 +188,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://fairprice.vercel.app/',
     },
     {
         iconUrl: threads,
